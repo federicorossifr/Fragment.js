@@ -1,10 +1,11 @@
 # Fragment.js
-A small and lightweight javascript library for displaying content in web applications.
+<p>A small and lightweight javascript library for displaying content in web applications.</p>
 
 Functionalities:
-  1)Ability to switch forward and backward between tabs;
-  2)Use of HTML5 local storage to store selected tabs within navigation or sessions;
-  3)Possibility to set a callback function on tab switch;
+<ul>
+  <li>Ability to switch forward and backward between tabs;
+  <li>Use of HTML5 local storage to store selected tabs within navigation or sessions;
+  <li>Possibility to set a callback function on tab switch;
+</ul>
 
-
-Guides and example coming soon...
+<p>Guides and example coming soon...</p>
