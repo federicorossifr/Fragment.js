@@ -8,4 +8,4 @@ Functionalities:
   <li>Possibility to set a callback function on tab switch;
 </ul>
 
-<p>Guides and example coming soon...</p>
+<p>Usage example @ http://osirisf.github.io/Spacebooks/</p>
